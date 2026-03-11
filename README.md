@@ -52,7 +52,7 @@ Name: Harish P
 Reg.no:212225040115
 Year: I year
 
-import numpy as np
+```import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L)
 M=max(L)
@@ -76,6 +76,7 @@ sd=np.sqrt(var)
 print(f"The Mean arrival rate is {mean:.3f} ")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {sd:.3f}")
+```
 
 
 # Output : 

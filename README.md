@@ -55,7 +55,8 @@ Reg.no:212225040115
 
 Year: I year
 
-```import numpy as np
+```
+import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L)
 M=max(L)
